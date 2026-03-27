@@ -16,7 +16,7 @@
 - Monthly average resampling to identify seasonal patterns
 
 ### 2. Model
-- **SARIMA** (statsmodels) fitted independently for each stock
+- **SARIMAX** (statsmodels) fitted independently for each stock
 - Seasonal period of 7 (weekly trading cycle)
 
 ### 3. Hyperparameter Tuning
